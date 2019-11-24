@@ -1,0 +1,11 @@
+C:\Users\mathe\source\repos\Builder\Builder\bin\Debug\netcoreapp2.1\Builder.deps.json
+C:\Users\mathe\source\repos\Builder\Builder\bin\Debug\netcoreapp2.1\Builder.runtimeconfig.json
+C:\Users\mathe\source\repos\Builder\Builder\bin\Debug\netcoreapp2.1\Builder.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\Builder\Builder\bin\Debug\netcoreapp2.1\Builder.dll
+C:\Users\mathe\source\repos\Builder\Builder\bin\Debug\netcoreapp2.1\Builder.pdb
+C:\Users\mathe\source\repos\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.AssemblyInfo.cs
+C:\Users\mathe\source\repos\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.dll
+C:\Users\mathe\source\repos\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.pdb
