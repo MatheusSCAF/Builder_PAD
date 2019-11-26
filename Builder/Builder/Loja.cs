@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+ /// <summary>
+ ///class Director
+ /// </summary>
 namespace Builder
 {
     class Loja
