@@ -9,3 +9,14 @@ C:\Users\mathe\source\repos\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.Asse
 C:\Users\mathe\source\repos\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.AssemblyInfo.cs
 C:\Users\mathe\source\repos\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.dll
 C:\Users\mathe\source\repos\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.pdb
+C:\Users\aluno.NAVERECIFE\Builder_PAD\Builder\Builder\bin\Debug\netcoreapp2.1\Builder.deps.json
+C:\Users\aluno.NAVERECIFE\Builder_PAD\Builder\Builder\bin\Debug\netcoreapp2.1\Builder.runtimeconfig.json
+C:\Users\aluno.NAVERECIFE\Builder_PAD\Builder\Builder\bin\Debug\netcoreapp2.1\Builder.runtimeconfig.dev.json
+C:\Users\aluno.NAVERECIFE\Builder_PAD\Builder\Builder\bin\Debug\netcoreapp2.1\Builder.dll
+C:\Users\aluno.NAVERECIFE\Builder_PAD\Builder\Builder\bin\Debug\netcoreapp2.1\Builder.pdb
+C:\Users\aluno.NAVERECIFE\Builder_PAD\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.csprojAssemblyReference.cache
+C:\Users\aluno.NAVERECIFE\Builder_PAD\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\aluno.NAVERECIFE\Builder_PAD\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.AssemblyInfoInputs.cache
+C:\Users\aluno.NAVERECIFE\Builder_PAD\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.AssemblyInfo.cs
+C:\Users\aluno.NAVERECIFE\Builder_PAD\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.dll
+C:\Users\aluno.NAVERECIFE\Builder_PAD\Builder\Builder\obj\Debug\netcoreapp2.1\Builder.pdb

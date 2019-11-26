@@ -20,6 +20,11 @@ namespace Builder
             builder = new BicicletaBuilder();
             loja.Construtor(builder);
             builder.Veiculo.Printar();
+
+            //Trem
+            builder = new TrainBuilder();
+            loja.Construtor(builder);
+            builder.Veiculo.Printar();
         }
     }
 }
